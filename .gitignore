@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+deconvolution/gcp_tables_automl/converted_export/*
+qtl/biofind/pm_gend_nbs/*
+qtl/pdbp/pm_gend_nbs/*
+qtl/ppmi/pm_gend_nbs/*
+**/.DS_Store
